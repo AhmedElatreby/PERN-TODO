@@ -49,6 +49,6 @@ CREATE TABLE todo(
 
 
 <div align="center">
-  <img src="home-1.PNG" alt="home">
+  <img src="Edit.PNG" alt="home">
 </div>
 
